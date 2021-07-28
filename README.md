@@ -1,4 +1,4 @@
-# Flight-ticket-price prediction !
+# Predicting the seat price of flight using Machine Learning Algorithms.
 
 ## For Solving this Usecase, What I have done is :
 
@@ -19,4 +19,7 @@
 ## Fitted the Model by using :
 - RandomForestRegressor.
 - Improved the accuracy by using Hyperparameter Tuning.
+  - Randomized searchCV
 - Plotted the Prediction.
+- Finded the best parameters.
+- Saved the model to pickle.
